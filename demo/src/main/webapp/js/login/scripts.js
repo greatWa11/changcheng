@@ -13,7 +13,7 @@ jQuery(document).ready(function() {
                  data: {username:username, password:password},
                  dataType: "json",
                  success: function(data){
-                	 window.location.href = "";
+                	 window.location.href = "22";
                  }
              });
         }
